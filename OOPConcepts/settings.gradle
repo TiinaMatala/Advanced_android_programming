@@ -1,0 +1,2 @@
+rootProject.name='OOConcepts'
+include ':app'
