@@ -1,6 +1,6 @@
 package oo.concepts;
 
-public abstract class Person {
+abstract public class Person {
     private String name;
     private String socialSecurityNumber;
 
